@@ -19,6 +19,8 @@
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-05122A?style=flat&logo=yarn&logoColor=2C2255)&nbsp;
+![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm&logoColor=2C2255)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -33,8 +35,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=2C2255)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea&logoColor=2C2255)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Java](https://img.shields.io/badge/sublime_text-05122A?style=flat&logo=sublime-text&logoColor=2C2255)&nbsp;
+![Sublime](https://img.shields.io/badge/sublime_text-05122A?style=flat&logo=sublime-text&logoColor=2C2255)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/galok8749/galok8749">
