@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **galok8749/galok8749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+![Header](https://github.com/galok8749/galok8749/blob/main/banner.png)
+# Hello Forks👋
