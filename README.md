@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alok)
 
-My name is Alok and I'm a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+ My name is Alok. I'm passionate about building tech, teaching and learning new technologies. 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,13 +25,16 @@ My name is Alok and I'm a Software Engineer who is passionate about building tec
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=2C2255)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=2C2255)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=2C2255)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=2C2255)
+![Java](https://img.shields.io/badge/sublime_text-05122A?style=flat&logo=sublime-text&logoColor=2C2255)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/galok8749/galok8749">
